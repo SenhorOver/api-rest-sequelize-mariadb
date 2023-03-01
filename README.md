@@ -1,4 +1,4 @@
-# Interactive rating component
+# API REST SEQUELIZE
 
 API criada com express que gerencia um banco de dados MariaDB com Sequelize
 
